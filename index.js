@@ -22,4 +22,6 @@ function sayHiToGrandma(string) {
   if (string === upperCase)
   console.log("HELLO")
   return("YES INDEED!")
+} else {
+  return("I can't hear you")
 }
