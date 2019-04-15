@@ -17,8 +17,8 @@ function sayHiToGrandma(string) {
 console.log('hello')
 return("I can't hear you!")
 }
-if (string === upperCase)
-string = "YES INDEED!"; {
+if (string === upperCase){
+string = "YES INDEED!"; 
 } else {
-  
+  return("I can't hear you")
 }
