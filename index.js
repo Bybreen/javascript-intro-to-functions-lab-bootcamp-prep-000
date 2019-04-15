@@ -18,5 +18,5 @@ console.log('hello')
 return("I can't hear you!")
 
 if (string === upperCase)
-greeting = 
+greeting = "YES INDEED!"
 }
