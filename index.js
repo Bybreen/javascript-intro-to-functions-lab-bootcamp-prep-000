@@ -18,6 +18,6 @@ console.log('hello')
 return("I can't hear you!")
 }
 
-function sayHiToGrandma(string) {
-  return("YES INDEED!")
+function sayHiToGrandma() {
+  return string.toUpperCase
 }
